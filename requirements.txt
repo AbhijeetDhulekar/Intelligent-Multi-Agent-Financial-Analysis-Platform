@@ -1,0 +1,44 @@
+# Core AI/ML Libraries
+langgraph
+langchain
+openai
+anthropic
+asyncio
+
+# Document Processing - UPDATED FOR PyPDF2
+pypdf2
+pydantic-settings
+psutil
+pdfplumber
+unstructured
+llama-parse
+pytesseract
+pdf2image
+
+# Vector Database & Embeddings
+chromadb
+sentence-transformers
+openai
+
+# Web Framework & API
+fastapi
+uvicorn
+streamlit
+
+# Data Processing & Visualization
+pandas
+numpy
+matplotlib
+plotly
+
+# Utilities
+python-dotenv
+pydantic
+typing-extensions
+asyncio
+pdf2image 
+pytesseract
+
+# Monitoring & Evaluation
+langsmith
+phoenix

@@ -1,0 +1,10 @@
+{
+  "total_files_processed": 4,
+  "successful_files": 4,
+  "total_chunks_created": 739,
+  "document_categories": [
+    "Financial_Statements",
+    "Earnings_Presentation",
+    "Results_Call"
+  ]
+}

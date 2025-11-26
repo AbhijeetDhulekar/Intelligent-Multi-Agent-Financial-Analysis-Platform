@@ -1,0 +1,17 @@
+{
+  "folders_processed": [
+    "Financial_Statements",
+    "Earnings_Presentations",
+    "Results_Calls",
+    "Annual_Reports"
+  ],
+  "total_chunks_created": 2731,
+  "processing_mode": "sequential_with_semantic_chunking",
+  "semantic_chunking_used": true,
+  "database_cleared": false,
+  "chunk_types_created": {
+    "financial_tables": 0,
+    "text_sections": 2592,
+    "financial_metrics": 139
+  }
+}
